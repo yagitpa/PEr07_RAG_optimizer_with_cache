@@ -61,8 +61,8 @@
 Нужен Python 3.10 или новее и ключ OpenAI API.
 
 ```bash
-git clone https://github.com/<ваш-username>/<имя-репозитория>.git
-cd <имя-репозитория>
+git clone https://github.com/yagitpa/PEr07_RAG_optimizer_with_cache
+cd PEr07_RAG_optimizer_with_cache
 
 python -m venv venv
 
