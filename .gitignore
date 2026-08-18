@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.Python
+*.egg-info/
+
+# Секреты
+.env
+
+# Данные, которые создаются автоматически
+chroma_db/
+cache.json
+cache.json.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
